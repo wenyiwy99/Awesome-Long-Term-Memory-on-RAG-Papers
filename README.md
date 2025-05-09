@@ -1,7 +1,7 @@
-# Awesome-LLM-Memory-Papers
+# Awesome-Long-term-Memory-on-RAG-Papers
 
 
-Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
+Awesome-Long-term-Memory-on-RAG is a collection of state-of-the-art, novel, exciting long-term memory methods based on retrieval-augment generation (RAG). It contains papers, codes, and datasets. Any additional things regarding memory, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yiwen23-c@my.cityu.edu.hk. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
 
 
 
@@ -9,12 +9,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ## Bookmarks
 
-- [Jailbreak Attack](#jailbreak-attack)
-  - [Black-box Attack](#black-box-attack)
-  - [White-box Attack](#white-box-attack)
-  - [Multi-turn Attack](#multi-turn-attack)
-  - [Attack on RAG-based LLM](#attack-on-rag-based-llm)
-  - [Multi-modal Attack](#multi-modal-attack)
+- [Survey Papers](#survey-papers)
 - [Jailbreak Defense](#jailbreak-defense)
   - [Learning-based Defense](#learning-based-defense)
   - [Strategy-based Defense](#strategy-based-defense)
@@ -30,17 +25,17 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-### Jailbreak Attack
+### Long-term Memory based on RAG
 
 
 
 
 
-#### Black-box Attack
+### Survey Papers <span id="survey-papers-"></span>
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.03 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2025.03 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 
 
 
