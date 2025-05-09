@@ -33,9 +33,12 @@ Awesome-Long-term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 ### Survey Papers <span id="survey-papers-"></span>
 
-| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.03 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| Time | Title                                                        |  Venue  |                            Paper                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: |
+| 2024.03 | **A survey on large language model based autonomous agents** | FCS'24 | [link](https://link.springer.com/article/10.1007/s11704-024-40231-1)|
+| 2024.04 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   Arxiv'24     | [link](https://arxiv.org/pdf/2404.13501)|
+| 2024.04 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   Arxiv'24     | [link](https://arxiv.org/pdf/2404.13501)|
+| 2024.04 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   Arxiv'24     | [link](https://arxiv.org/pdf/2404.13501)|
 
 
 
