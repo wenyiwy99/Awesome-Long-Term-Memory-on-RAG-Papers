@@ -31,7 +31,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-### Survey Papers <span id="survey-papers-"></span>
+### Survey Papers <span id="survey-papers"></span>
 
 | Time | Title                                                        |  Venue  |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: |
