@@ -1,7 +1,7 @@
 # Awesome-Long-term-Memory-on-RAG-Papers
 
 
-Awesome-Long-term-Memory-on-RAG is a collection of state-of-the-art, novel, exciting long-term memory methods based on retrieval-augment generation (RAG). It contains papers, codes, and datasets. Any additional things regarding memory, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yiwen23-c@my.cityu.edu.hk. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
+Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exciting Long-Term Memory methods based on Retrieval-Augment Generation (RAG). It contains papers, codes, and datasets. Any additional things regarding memory, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yiwen23-c@my.cityu.edu.hk. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
 
 
 
@@ -10,7 +10,7 @@ Awesome-Long-term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 ## Bookmarks
 
 - [Survey Papers](#survey-papers)
-- [Jailbreak Defense](#jailbreak-defense)
+- [Benchmark](#benchmark)
   - [Learning-based Defense](#learning-based-defense)
   - [Strategy-based Defense](#strategy-based-defense)
   - [Guard Model](#Guard-model)
@@ -54,11 +54,11 @@ Awesome-Long-term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-#### White-box Attack
+#### Benchmark <span id="benchmark"></span>
 
-| Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
-| ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
-| 2025.02 | **Improved techniques for optimization-based jailbreaking on large language models (I-GCG)** |   ICLR'25     | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
+| Year    | Dataset | Paper                                                        |      Venue       |                          # Sessions                            |                           # Queries                     | Discription |
+| ------- | ------- | ----------------------------------------------------- | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |  :--------------------------------------------------------: |
+| 2025.02 |MSC |**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** |   ACL    | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |[link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
 
 
 
