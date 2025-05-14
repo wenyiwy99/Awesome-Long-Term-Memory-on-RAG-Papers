@@ -1,4 +1,4 @@
-# Awesome-Long-term-Memory-on-RAG-Papers
+# Awesome-Long-Term-Memory-on-RAG-Papers
 
 
 Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exciting Long-Term Memory methods based on Retrieval-Augment Generation (RAG). It contains papers, codes, and datasets. Any additional things regarding memory, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yiwen23-c@my.cityu.edu.hk. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
