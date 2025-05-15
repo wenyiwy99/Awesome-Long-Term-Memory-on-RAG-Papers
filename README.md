@@ -56,8 +56,8 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 #### Benchmark <span id="benchmark"></span>
 
-| Year    | Dataset | Paper                                                        |      Venue       |                          # Sessions                            |                           # Queries                     | Discription |
-| ------- | ------- | ----------------------------------------------------- | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |  :--------------------------------------------------------: |
+| Year    | Dataset | Paper           |      Venue       |                          # Sessions                            |                           # Queries                     | Discription |
+| ------- | ------- | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
 | 2025.02 |MSC |**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** |   ACL    | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |[link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
 
 
