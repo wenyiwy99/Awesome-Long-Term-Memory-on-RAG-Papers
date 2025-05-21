@@ -21,9 +21,6 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-### Long-term Memory based on RAG
-
-
 
 
 
@@ -43,9 +40,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-
-
-#### Benchmark <span id="benchmark"></span>
+### Benchmark <span id="benchmark"></span>
 
 | Year    | Dataset | Paper           |      Venue       |                          #&nbsp;Sessions                            |                           #&nbsp;Queries                     | Discription |
 | ------- | :-------: | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
@@ -65,7 +60,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-#### Unstructured Long Term Memory <span id="unstructured-memory"></span>
+### Unstructured Long Term Memory <span id="unstructured-memory"></span>
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
@@ -73,7 +68,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-#### Structural Long Term Memory <span id="structural-memory"></span>
+### Structural Long Term Memory <span id="structural-memory"></span>
 
 
 
