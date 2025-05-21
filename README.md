@@ -43,10 +43,10 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 ### Benchmark <span id="benchmark"></span>
 
 | Year    | Dataset | Paper           |      Venue       |                          #&nbsp;Sessions                            |                           #&nbsp;Queries                     | Discription |
-| ------- | :-------: | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
+| :-------: | :-------: | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
 | 2022 |[MSC](https://parl.ai/projects/msc/)|**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** | ACL | 5 |1k|[link](https://aclanthology.org/2022.acl-long.356.pdf)      |
 | 2025 |[LongMemEval](https://github.com/xiaowu0162/LongMemEval) |**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory** |   ICLR    | 50k |        500      |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
-| 2025.02 |[PerLTQA]() |**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering** |   SIGHAN    | 4K |      8593     |[link]()      |
+| 2024 |[PerLTQA](https://github.com/Elvin-Yiming-Du/PerLTQA) |**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering** |   ACL-SIGHAN    | 4K |      8593     |[link](https://aclanthology.org/2024.sighan-1.18.pdf)      |
 | 2024 |[LoCoMo](https://github.com/snap-research/LoCoMo) |**Evaluating Very Long-Term Conversational Memory of LLM Agents** |ACL | 1k |7512|[link](https://snap-research.github.io/locomo/)      |
 | 2025.02 |[CarMem]() |**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding** |COLING | 1k |NA|[link]()      |
 | 2025.02 |[madial-bench]() |**MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation** |NAACL | 160 |NA|[link]()      |
