@@ -11,12 +11,8 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 - [Survey Papers](#survey-papers)
 - [Benchmark](#benchmark)
-  - [Learning-based Defense](#learning-based-defense)
-  - [Strategy-based Defense](#strategy-based-defense)
-  - [Guard Model](#Guard-model)
-  - [Moderation API](#Moderation-API)
-- [Evaluation & Analysis](#evaluation--analysis)
-- [Application](#application)
+- [Unstructured Long Term Memory](#unstructured-memory)
+- [Structural Long Term Memory](#structural-memory)
 
 
 
@@ -49,98 +45,35 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-
-
-
-
-
 #### Benchmark <span id="benchmark"></span>
 
-| Year    | Dataset | Paper           |      Venue       |                          # Sessions                            |                           # Queries                     | Discription |
-| ------- | ------- | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
-| 2025.02 |MSC |**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** |   ACL    | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |[link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
-
-
-
-
-#### Multi-turn Attack
-
-
-
-| Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
-| ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue** |   arXiv    | [link](https://arxiv.org/pdf/2411.03814) |      -    |
-                     -                               |
-
-
-
-
-
-
-
-#### Attack on RAG-based LLM
-
-
-
-| Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
-| ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2024.09 | **Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2409.08045) | [link](https://github.com/StavC/UnleashingWorms-ExtractingData) |
-| 2024.02 | **Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning (Pandora)** | arXiv | [link](https://arxiv.org/pdf/2402.08416) |                              -                               |
+| Year    | Dataset | Paper           |      Venue       |                          #&nbsp;Sessions                            |                           #&nbsp;Queries                     | Discription |
+| ------- | :-------: | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
+| 2025.02 |[MSC]() |**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** |ACL | 5k |NA|[link]()      |
+| 2025.02 |[LongMemEval](https://github.com/xiaowu0162/LongMemEval) |**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory** |   ICLR    | 50k |        500      |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
+| 2025.02 |[PerLTQA]() |**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering** |   SIGHAN    | 4K |      8593     |[link]()      |
+| 2024 |[LoCoMo](https://github.com/snap-research/LoCoMo) |**Evaluating Very Long-Term Conversational Memory of LLM Agents** |ACL | 1k |7512|[link](https://snap-research.github.io/locomo/)      |
+| 2025.02 |[CarMem]() |**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding** |COLING | 1k |NA|[link]()      |
+| 2025.02 |[madial-bench]() |**MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation** |NAACL | 160 |NA|[link]()      |
+| 2025.02 |[memdaily]() |**MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistant** |Arxiv  |  ||[link]()      |
+| 2025.02 |[MT-Bench+]() |**MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** |Arxiv |  ||[link]()      |
+| 2025.02 |[Long-MT-Bench+]() |**On Memory Construction and Retrieval for Personalized Conversational Agents** |ICLR |  ||[link]()      |
+| 2025.02 |[MT-Bench+]() |**MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** |Arxiv |  ||[link]()      |
+| 2025.02 |[MemoryBank]() |**Memorybank: Enhancing large language models with long-term memory** |AAAI |  ||[link]()      |
 
 
 
 
 
-
-
-#### Multi-modal Attack
-
-| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey** | arXiv | [link](https://arxiv.org/pdf/2411.09259) | [link](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Jailbreak Defense
-
-#### Learning-based Defense
+#### Unstructured Long Term Memory <span id="unstructured-memory"></span>
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
-                           -                                |
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Strategy-based Defense
+#### Structural Long Term Memory <span id="structural-memory"></span>
 
 
 
@@ -155,52 +88,6 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-
-
-
-#### Guard Model
-
-| Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
-| ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.03 | **GuardReasoner: Towards Reasoning-based LLM Safeguards (GuardReasoner)** | ICLR Workshop'25  |          [link](https://arxiv.org/pdf/2501.18492)          |                              [link](https://github.com/yueliu1999/GuardReasoner/)                               |
-
-
-
-
-
-
-#### Moderation API
-
-
-
-| Time    | Title                                                        |      Venue      |                            Paper                             |                             Code                             |
-| ------- | ------------------------------------------------------------ | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2023.08 | **Using GPT-4 for content moderation (GPT-4)**               |     OpenAI      | [link](https://openai.com/index/using-gpt-4-for-content-moderation/) |                              -                               |
-
-
-
-
-
-
-
-
-### Evaluation \& Analysis
-| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.02 | **GuidedBench: Equipping Jailbreak Evaluation with Guidelines** | arXiv | [link](https://arxiv.org/pdf/2502.16903) |  [link](https://github.com/SproutNan/AI-Safety_Benchmark)  |
-                      -                               |
-
-### Application
-
-
-| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **Attacking Vision-Language Computer Agents via Pop-ups** | arXiv | [link](https://arxiv.org/pdf/2411.02391) | [link](https://github.com/SALT-NLP/PopupAttack) |
-| 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
-| 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
-| 2024.10 | **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates** |   arXiv    | [link](https://arxiv.org/pdf/2410.07137) |        [link](https://github.com/sail-sg/Cheating-LLM-Benchmarks)      |
-| 2024.09 | **RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems** |   arXiv    | [link](https://arxiv.org/pdf/2409.16727) |                              -  |
-| 2024.08 | **A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares (APwT)** |   arXiv    | [link](https://arxiv.org/pdf/2408.05061) |                              -  |
 
 
 
