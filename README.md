@@ -55,6 +55,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 | 2025 |[madial-bench](https://github.com/hejunqing/MADial-Bench) |**MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation** |NAACL | 160 |NA|[link](https://aclanthology.org/2025.naacl-long.499.pdf)      |
 | 2025 |[Long-MT-Bench+](https://github.com/Microsoft/secom) |**On Memory Construction and Retrieval for Personalized Conversational Agents** |ICLR |  ||[link](https://openreview.net/pdf?id=xKDZAW0He3)      |
 | 2025 |[LongMemEval](https://github.com/xiaowu0162/LongMemEval) |**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory** |   ICLR    | 50k |        500      |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
+| 2025 |[Temporal Memory](https://github.com/Zyphra/TemporalMemoryDataset) |**Toward Conversational Agents with Context and Time Sensitive Long-term Memory** |   Arxiv    |  |              |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
 
 
 
@@ -63,16 +64,16 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 ### Unstructured Long Term Memory <span id="unstructured-memory"></span>
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | ICLR | [link](https://openreview.net/pdf?id=xKDZAW0He3) | [link](https://github.com/Microsoft/secom) |
 | 2023 | **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** | Arxiv | [link](https://arxiv.org/pdf/2308.08239) | [link](https://github.com/LuJunru/MemoChat) |
 | 2023 | **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models** | Neurocomputing | [link](https://arxiv.org/pdf/2308.15022) |  |
 | 2023 | **Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory** | Arxiv | [link](https://arxiv.org/pdf/2311.08719) |  |
 | 2022 | **Keep me updated! memory management in long-term conversations** | EMNLP | [link](https://aclanthology.org/2022.findings-emnlp.276.pdf) | [link](https://github.com/naver-ai/carecall-memory) |
 | 2024 | **Memorybank: Enhancing large language models with long-term memory** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29946) | [link](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
-| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
-| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
-| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
-| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
+| 2024 | **Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism** | WWW | [link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645482) |  |
+| 2025 | **Beyond Retrieval: Embracing Compressive Memory in Real-World Long-Term Conversations** | Coling | [link](https://aclanthology.org/2025.coling-main.51.pdf) | [link](https://github.com/nuochenpku/COMEDY) |
+| 2025 | **Toward Conversational Agents with Context and Time Sensitive Long-term Memory** | Arxiv | [link](https://arxiv.org/pdf/2406.00057) | [link](https://github.com/Zyphra/TemporalMemoryDataset) |
+| 2025 | **Towards Lifelong Dialogue Agents via Timeline-based Memory Management** | NAACL | [link](https://aclanthology.org/2025.naacl-long.435.pdf) | [link](https://huggingface.co/spaces/ResearcherScholar/Theanine) |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | ICLR | [link](https://openreview.net/pdf?id=xKDZAW0He3) | [link](https://github.com/Microsoft/secom) |
 
 
 
@@ -83,7 +84,10 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 | Time | Title                                                        |  Venue  | Structure |                           Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----: |:------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024 | **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** | EMNLP | Graph | [link]() | [link]() |
+| 2024 | **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** | EMNLP | Graph | [link](https://aclanthology.org/2024.emnlp-main.281.pdf) |  |
+| 2024 | **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** | NeurIPS | Knowledge Graph | [link](https://openreview.net/pdf?id=hkujvAPVsg) | [link](https://github.com/OSU-NLP-Group/HippoRAG) |
+| 2025 | **From Isolated Conversations to Hierachical Schemas: Dynamic Tree Memory Representation for LLMs** | Arxiv | Tree | [link](https://openreview.net/pdf?id=moXtEmCleY) |  |
+| 2025 | **From RAG to Memory: Non-Parametric Continual Learning for Large Language Models** | ICML | Knowledge Graph | [link](https://arxiv.org/pdf/2502.14802?) | [link](https://github.com/OSU-NLP-Group/HippoRAG) |
 
 
 
@@ -97,11 +101,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 ## Other Related Awesome Repository
 
-- [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
-- [llm-sp](https://github.com/chawins/llm-sp)
-- [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
-- [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
-
+- [Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI)
 
 
 
