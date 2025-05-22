@@ -30,6 +30,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: |
 | 2024.03 | **A survey on large language model based autonomous agents** | FCS | [link](https://link.springer.com/article/10.1007/s11704-024-40231-1)|
 | 2024.04 | **A Survey on the Memory Mechanism of Large Language Model based Agents** |   Arxiv     | [link](https://arxiv.org/pdf/2404.13501)|
+| 2025.01 | **Human-inspired Perspectives: A Survey on AI Long-term Memory** |   Arxiv    | [link](https://arxiv.org/pdf/2411.00489)|
 | 2025.03 | **From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs** |   Arxiv    | [link](https://arxiv.org/pdf/2504.15965)|
 | 2025.04 | **Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems** |   Arxiv     | [link](https://arxiv.org/pdf/2504.01990)|
 | 2025.05 | **Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions** |   Arxiv     | [link](https://arxiv.org/pdf/2505.00675)|
