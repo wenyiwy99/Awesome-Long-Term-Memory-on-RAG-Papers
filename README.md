@@ -45,6 +45,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 | Year    | Dataset | Paper           |      Venue       |                          #&nbsp;Sessions                            |                           #&nbsp;Queries                     | Discription |
 | :-------: | :-------: | --------------------------------------------- | :--------------: | :-----------------------------------: | :-------------------------------------: |  :--------------------------------------------------------: |
 | 2022 |[MSC](https://parl.ai/projects/msc/)|**Beyond Goldfish Memory: Long-Term Open-Domain Conversation** | ACL | 5 |1k|[link](https://aclanthology.org/2022.acl-long.356.pdf)      |
+| 2022 |[CareCall](https://github.com/naver-ai/carecall-memory)|**Keep Me Updated! Memory Management in Long-term Conversations** | EMNLP |5|1k|[link](https://aclanthology.org/2022.findings-emnlp.276.pdf)      |
 | 2023 |[MT-Bench+](https://github.com/LuJunru/MemoChat) |**MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** |Arxiv |  ||[link](https://arxiv.org/pdf/2308.08239)      |
 | 2024 |[PerLTQA](https://github.com/Elvin-Yiming-Du/PerLTQA) |**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering** |   ACL-SIGHAN    | 4K |      8593     |[link](https://aclanthology.org/2024.sighan-1.18.pdf)      |
 | 2024 |[LoCoMo](https://github.com/snap-research/locomo) |**Evaluating Very Long-Term Conversational Memory of LLM Agents** |ACL | 1k |7512|[link](https://aclanthology.org/2024.acl-long.747.pdf)      |
@@ -62,7 +63,16 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 ### Unstructured Long Term Memory <span id="unstructured-memory"></span>
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | ICLR | [link](https://openreview.net/pdf?id=xKDZAW0He3) | [link](https://github.com/Microsoft/secom) |
+| 2023 | **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** | Arxiv | [link](https://arxiv.org/pdf/2308.08239) | [link](https://github.com/LuJunru/MemoChat) |
+| 2023 | **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models** | Neurocomputing | [link](https://arxiv.org/pdf/2308.15022) |  |
+| 2023 | **Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory** | Arxiv | [link](https://arxiv.org/pdf/2311.08719) |  |
+| 2022 | **Keep me updated! memory management in long-term conversations** | EMNLP | [link](https://aclanthology.org/2022.findings-emnlp.276.pdf) | [link](https://github.com/naver-ai/carecall-memory) |
+| 2024 | **Memorybank: Enhancing large language models with long-term memory** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29946) | [link](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
+| 2025 | **SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents** | Arxiv | [link]() | [link]() |
 
 
 
@@ -71,9 +81,9 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
-| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
+| Time | Title                                                        |  Venue  | Structure |                           Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----: |:------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** | EMNLP | Graph | [link]() | [link]() |
 
 
 
