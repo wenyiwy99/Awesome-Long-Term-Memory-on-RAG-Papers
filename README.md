@@ -64,10 +64,10 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 ### Unstructured Long Term Memory <span id="unstructured-memory"></span>
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2022 | **Keep me updated! memory management in long-term conversations** | EMNLP | [link](https://aclanthology.org/2022.findings-emnlp.276.pdf) | [link](https://github.com/naver-ai/carecall-memory) |
 | 2023 | **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation** | Arxiv | [link](https://arxiv.org/pdf/2308.08239) | [link](https://github.com/LuJunru/MemoChat) |
 | 2023 | **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models** | Neurocomputing | [link](https://arxiv.org/pdf/2308.15022) |  |
 | 2023 | **Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory** | Arxiv | [link](https://arxiv.org/pdf/2311.08719) |  |
-| 2022 | **Keep me updated! memory management in long-term conversations** | EMNLP | [link](https://aclanthology.org/2022.findings-emnlp.276.pdf) | [link](https://github.com/naver-ai/carecall-memory) |
 | 2024 | **Memorybank: Enhancing large language models with long-term memory** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29946) | [link](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
 | 2024 | **Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism** | WWW | [link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645482) |  |
 | 2025 | **Beyond Retrieval: Embracing Compressive Memory in Real-World Long-Term Conversations** | Coling | [link](https://aclanthology.org/2025.coling-main.51.pdf) | [link](https://github.com/nuochenpku/COMEDY) |
