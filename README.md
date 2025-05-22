@@ -106,7 +106,10 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 
 
 
+## Contributors
 
+<a href="https://wenyiwy99.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/49638683?v=4" alt="wywyddup" width="96" height="96"/></a> 
+<a href="https://quqxui.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/41822324?v=4" alt="quqxui" width="96" height="96"/></a> 
 
 
 
