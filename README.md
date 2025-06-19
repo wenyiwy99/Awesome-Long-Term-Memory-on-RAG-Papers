@@ -57,6 +57,7 @@ Awesome-Long-Term-Memory-on-RAG is a collection of state-of-the-art, novel, exci
 | 2025 |[Long-MT-Bench+](https://github.com/Microsoft/secom) |**On Memory Construction and Retrieval for Personalized Conversational Agents** |ICLR |  ||[link](https://openreview.net/pdf?id=xKDZAW0He3)      |
 | 2025 |[LongMemEval](https://github.com/xiaowu0162/LongMemEval) |**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory** |   ICLR    | 50k |        500      |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
 | 2025 |[Temporal Memory](https://github.com/Zyphra/TemporalMemoryDataset) |**Toward Conversational Agents with Context and Time Sensitive Long-term Memory** |   Arxiv    |  |              |[link](https://openreview.net/pdf?id=pZiyCaVuti)      |
+| 2025 |[StoryBench] |**StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns** |   Arxiv    |  |              |[link](https://arxiv.org/pdf/2506.13356v1)      |
 
 
 
